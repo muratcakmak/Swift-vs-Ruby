@@ -1,4 +1,4 @@
-# Swift-vs-Rubys
+# Swift-vs-Ruby
 
 ## Comments
 Both languages support one-line and multi-line comments
